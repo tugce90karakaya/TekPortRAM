@@ -1,0 +1,7 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\Public\proje\tekPortRam\src\ram.v'
+ERROR (EX3588) : Single value range is not allowed in this mode of Verilog("C:\Users\Public\proje\tekPortRam\src\ram.v":17)
+ERROR (EX3928) : Module 'tek_port_ram' is ignored due to previous errors("C:\Users\Public\proje\tekPortRam\src\ram.v":31)
+Verilog file 'C:\Users\Public\proje\tekPortRam\src\ram.v' ignored due to errors
+GowinSynthesis finish
